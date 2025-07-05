@@ -58,8 +58,15 @@ const Form = () => {
 
   const handleSubmit = async (e) => {
   e.preventDefault();
+
+  const user = {
+    fullName,
+    email,
+    mobile
+  }
   try {
     const response = await axios.post("http://localhost:5000/api/users", formData);
+    localStorage.setItem("userEmail", formData.email); // Save user data to localStorage
     console.log("Saved:", response.data);
     navigate("/yournewspage"); // Redirect to the news page after successful submission
   } catch (err) {
