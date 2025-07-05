@@ -1,7 +1,7 @@
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import News from "../pages/News";
-import stockNews from "../data/stock_news.json";
+import stockNews from "../../data/stock_news.json";
 
 export default function YourNews() {
   const [UserData, setUserData] = useState(null);
@@ -12,36 +12,53 @@ export default function YourNews() {
     if(!email) return;
 
     axios
-        .get(`https://marketlens-8yun.onrender.com/api/users/$(email)`)
+        .get(`https://marketlens-8yun.onrender.com/api/users/${email}`)
         .then((res) => {
             setUserData(res.data);
             setLoading(false);
+            console.log("hey")
+            console.log(UserData)
         })
-        console.log(UserData)
+        
         .catch((err) => {
             console.error("Failed to fetch personalised news:");
             setLoading(false);
         })
   }, []);
 
+// function getNewsByUserStocks(userData) {
+//     if (!userData || !userData.stocks) return [];
+
+//     // Get selected stock names
+//     const selectedStocks = Object.entries(userData.stocks)
+//         .filter(([_, selected]) => selected)
+//         .map(([stockName]) => stockName.toLowerCase());
+
+//     // Filter news where any keyword matches a selected stock
+//     return stockNews.filter(news =>
+//         news.keywords &&
+//         news.keywords.some(keyword =>
+//             selectedStocks.includes(keyword.toLowerCase())
+//         )
+//     );
+// }
+
 function getNewsByUserStocks(userData) {
-    if (!userData || !userData.stocks) return [];
+  if (!userData || !userData.stocks) return [];
 
-    // Get selected stock names
-    const selectedStocks = Object.entries(userData.stocks)
-        .filter(([_, selected]) => selected)
-        .map(([stockName]) => stockName.toLowerCase());
+  // Get selected stock names in lowercase
+  const selectedStocks = Object.entries(userData.stocks)
+    .filter(([_, info]) => info.selected) // assumes structure: TCS: { selected: true }
+    .map(([stockName]) => stockName.toLowerCase());
 
-    // Filter news where any keyword matches a selected stock
-    return stockNews.filter(news =>
-        news.keywords &&
-        news.keywords.some(keyword =>
-            selectedStocks.includes(keyword.toLowerCase())
-        )
-    );
+  // Filter news based on keyword match
+  return stockNews.results.filter(news => {
+    const keyword = news.keywords?.toLowerCase();
+    return keyword && selectedStocks.includes(keyword);
+  });
 }
 
-const newsData = { results: getNewsByUserStocks(UserData) };
+
 
 function formatDate(dateStr) {
     const date = new Date(dateStr);
@@ -53,19 +70,22 @@ function formatDate(dateStr) {
     return <div className="text-white text-center py-10">Loading...</div>;
   }
 
-  if (!UserData || !UserData.results) {
-    return <div className="text-white text-center py-10">No news found.</div>;
-  }
+  if (!UserData) {
+  return <div className="text-white text-center py-10">No news found.</div>;
+}
+
+const newsData = { results: getNewsByUserStocks(UserData) };
+
 
 // Print only the selected stocks
 const selectedStocks = UserData && UserData.stocks
     ? Object.entries(UserData.stocks)
-            .filter(([_, selected]) => selected)
+            .filter(([_, info]) => info.selected)
             .map(([stockName]) => stockName)
     : [];
 
 return (
-    <div className="text-white text-center py-6">
+    <div className="text-white py-6">
         <div className="mb-4">
             <span className="font-semibold">Selected Stocks:</span>
             {selectedStocks.length > 0 ? (
@@ -84,7 +104,7 @@ return (
         <>
             {/* Desktop view */}
             <div className="hidden md:block">
-                <div className="max-h-[800px] overflow-y-auto scrollbar-hide pr-4">
+                <div className=" pr-4">
                     <div className="space-y-6">
                         {newsData.results.map((news) => (
                             <div
@@ -194,12 +214,7 @@ return (
             </div>
 
             {/* CTA Button */}
-            <div className="text-center mt-12">
-                <button className="bg-gradient-to-r from-blue-600 to-cyan-500 px-8 py-4 rounded-full text-white font-semibold hover:shadow-lg hover:shadow-blue-500/25 transition-all cursor-pointer whitespace-nowrap">
-                    View All News
-                    <i className="ri-arrow-right-line ml-2"></i>
-                </button>
-            </div>
+            
         </>
     </div>
 );

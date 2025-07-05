@@ -33,7 +33,7 @@ export default function NewsGlassList() {
     <>
       {/* Desktop view */}
       <div className="hidden md:block">
-        <div className="max-h-[800px] overflow-y-auto scrollbar-hide pr-4">
+        <div className="bg-transparent pr-4">
           <div className="space-y-6">
             {newsData.results.map((news) => (
               <div

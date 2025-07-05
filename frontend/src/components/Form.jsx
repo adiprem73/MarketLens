@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
+import { useFormSubmission } from "./FormSubmissionContext"; // Import the context to manage form submission state
 
 const Form = () => {
     const navigate = useNavigate();
+    const { setFormSubmission } = useFormSubmission(); // Use the context to set form submission state
 
     const [formData, setFormData] = useState({
     fullName: "",
@@ -68,6 +70,8 @@ const Form = () => {
     const response = await axios.post("http://localhost:5000/api/users", formData);
     localStorage.setItem("userEmail", formData.email); // Save user data to localStorage
     console.log("Saved:", response.data);
+    setFormSubmission(true); // Set form submission state to true
+    console.log("Form submitted successfully:", response.data);
     navigate("/yournewspage"); // Redirect to the news page after successful submission
   } catch (err) {
     console.error("Error saving user:", err);
@@ -85,11 +89,7 @@ const Form = () => {
       <div className="relative z-10 container mx-auto px-4 py-16 max-w-6xl">
         {/* Header Section */}
         <header className="mb-16 text-center">
-          <div className="inline-block mb-2 px-4 py-1 rounded-full bg-opacity-10   bg-white/10/10 backdrop-filter backdrop-blur-sm border border-white border-opacity-10">
-            <span className="text-sm font-medium tracking-wider">
-              UX/UI DESIGN
-            </span>
-          </div>
+          
           <h1 className="text-6xl md:text-7xl lg:text-8xl font-bold tracking-wider mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400">
             PORTFOLIO LINK
           </h1>

@@ -1,25 +1,25 @@
 {
   "status": "success",
-  "totalResults": 9,
+  "totalResults": 47,
   "results": [
     {
-      "article_id": "238ed78ee7d3d0b3212ebcbe09263f7d",
-      "title": "Wipro and Tech Mahindra salaries fall\u2014are lower-cost hires reshaping IT pay?",
+      "article_id": "6cc164fa5cb204c4930f30fb7271b2c4",
+      "title": "Wipro and Tech Mahindra salaries fall—are lower-cost hires reshaping IT pay?",
       "link": "https://www.peoplematters.in/news/compensation-benefits/wipro-and-tech-mahindra-salaries-fallare-lower-cost-hires-reshaping-it-pay-46223",
-      "keywords": null,
+      "keywords": "wipro",
       "creator": [
-        "Business Desk"
+        "Excel Import"
       ],
       "description": "For the first time in eight years Wipro and Tech Mahindra have reported a decline in median employee pay in FY25 Analysts suggest the fall...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-07-01 11:02:13",
+      "pubDate": "2025-06-23 20:51:38",
       "pubDateTZ": "UTC",
       "image_url": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1751603068/1751603066.jpg",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "Business Standard",
-      "source_priority": 364,
-      "source_url": "www.peoplematters.in",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.peoplematters.in/news/compensation-benefits/wipro-and-tech-mahindra-salaries-fallare-lower-cost-hires-reshaping-it-pay-46223",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
@@ -36,23 +36,23 @@
       "duplicate": false
     },
     {
-      "article_id": "73d9ef2b25328b8706339547286f8535",
+      "article_id": "ae0e9525dbab30fcaeb4c80cd2d5a39f",
       "title": "Wipro Share Price Highlights: Wipro Stock Price History",
       "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-02-jul-2025/liveblog/122194879.cms",
-      "keywords": null,
+      "keywords": "wipro",
       "creator": [
-        "ET Bureau"
+        "Excel Import"
       ],
       "description": "Stay updated with the Wipro Stock Liveblog, your one-stop destination for real-time information and analysis of a leading stock.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-05 11:02:13",
+      "pubDate": "2025-06-16 16:55:02",
       "pubDateTZ": "UTC",
       "image_url": "https://img.etimg.com/thumb/msid-122194879,width-630,resizemode-4,imgsize-21140/wipro-stock-price-today-live-02-jul-2025.jpg",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "Business Standard",
-      "source_priority": 251,
-      "source_url": "m.economictimes.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/markets/stocks/stock-liveblog/wipro-stock-price-today-live-02-jul-2025/liveblog/122194879.cms",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
@@ -69,23 +69,23 @@
       "duplicate": false
     },
     {
-      "article_id": "7578eb767b69b4dfd76546e9bed4daf9",
+      "article_id": "4e49b8131997567f8bb31a4efd521b86",
       "title": "Wipro block deal: Around 2% equity exchanged for Rs 5,057 crore, stock gains",
       "link": "https://www.moneycontrol.com/news/business/markets/wipro-block-deal-around-2-equity-exchanged-for-rs-5-057-crore-stock-gains-13105524.html",
-      "keywords": null,
+      "keywords": "wipro",
       "creator": [
-        "Reuters"
+        "Excel Import"
       ],
       "description": "Shares of IT services major Wipro rallied over one percent after a large deal took place in the second block deal window on Monday, June 9.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-17 11:02:13",
+      "pubDate": "2025-06-07 07:45:19",
       "pubDateTZ": "UTC",
       "image_url": "https://images.moneycontrol.com/static-mcnews/2024/08/20240822124032_Wipro-file-photo.jpg?impolicy=website&width=770&height=431",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "Moneycontrol",
-      "source_priority": 459,
-      "source_url": "www.moneycontrol.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/markets/wipro-block-deal-around-2-equity-exchanged-for-rs-5-057-crore-stock-gains-13105524.html",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
@@ -102,30 +102,30 @@
       "duplicate": false
     },
     {
-      "article_id": "873bf5c2e6d6edf434209a1ce4a57007",
+      "article_id": "f29f35afa42b342fbbc4af9b98d81f38",
       "title": "Wipro Unveils Agentic AI Services with NVIDIA for Global Impact",
       "link": "https://www.wipro.com/newsroom/press-releases/2025/wipro-brings-sovereign-ai-services-with-nvidia-ai-to-governments-and-enterprises-around-the-world/",
-      "keywords": null,
+      "keywords": "wipro",
       "creator": [
-        "ET Bureau"
+        "Excel Import"
       ],
       "description": "Wipro launches agentic AI services with NVIDIA, enabling sovereign AI, local LLMs, and secure digital transformation for governments and...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-07-04 11:02:13",
+      "pubDate": "2025-06-11 14:09:55",
       "pubDateTZ": "UTC",
       "image_url": "https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1751603068/1751603066.jpg",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "The Economic Times",
-      "source_priority": 499,
-      "source_url": "www.wipro.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.wipro.com/newsroom/press-releases/2025/wipro-brings-sovereign-ai-services-with-nvidia-ai-to-governments-and-enterprises-around-the-world/",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
         "india"
       ],
       "category": [
-        "business"
+        "top"
       ],
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -135,30 +135,30 @@
       "duplicate": false
     },
     {
-      "article_id": "df208df1043b675aa272bb3913b5b770",
+      "article_id": "2cafccaaacbcc1090cebe31518132c92",
       "title": "TCS Shows Signs of Recovery Amid Ongoing Market Challenges and Declining Stock Performance",
       "link": "https://www.marketsmojo.com/news/stocks-in-action/tata-consultancy-services-stock-rises-010-amid-broader-market-gains-3218287",
-      "keywords": null,
+      "keywords": "tcs",
       "creator": [
-        "Reuters"
+        "Excel Import"
       ],
       "description": "Tata Consultancy Services (TCS) has shown slight recovery after three days of decline, gaining 0.10%. Despite this, it remains below key...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-22 11:02:13",
+      "pubDate": "2025-06-16 09:31:38",
       "pubDateTZ": "UTC",
       "image_url": "https://images.moneycontrol.com/static-mcnews/2024/04/410174539.jpg?impolicy=website&width=770&height=431",
       "video_url": null,
-      "source_id": "economictimes_indiatimes",
-      "source_name": "The Economic Times",
-      "source_priority": 808,
-      "source_url": "www.marketsmojo.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.marketsmojo.com/news/stocks-in-action/tata-consultancy-services-stock-rises-010-amid-broader-market-gains-3218287",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
         "india"
       ],
       "category": [
-        "business"
+        "top"
       ],
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -168,23 +168,23 @@
       "duplicate": false
     },
     {
-      "article_id": "9c6e78733cdb603f9c41d0356c64e18c",
+      "article_id": "c6b4793f50520ea0e3116ebdd409ff91",
       "title": "Tata Consultancy Services shares decline marginally in today's trade",
       "link": "https://www.moneycontrol.com/news/business/stocks/tata-consultancy-services-shares-decline-marginally-in-todays-trade-alpha-article-13223068.html",
-      "keywords": null,
+      "keywords": "tcs",
       "creator": [
-        "Business Desk"
+        "Excel Import"
       ],
       "description": "With a marginal decrease in price to Rs 3417.70, Tata Consultancy Services remains a key player in the NIFTY 50 STOCKS index.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-26 11:02:13",
+      "pubDate": "2025-06-25 01:24:51",
       "pubDateTZ": "UTC",
       "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-03/01/full/1614541329-3408.jpg?im=FeatureCrop,size=(826,465)",
       "video_url": null,
-      "source_id": "businessstandard",
-      "source_name": "Business Standard",
-      "source_priority": 756,
-      "source_url": "www.moneycontrol.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/stocks/tata-consultancy-services-shares-decline-marginally-in-todays-trade-alpha-article-13223068.html",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
@@ -201,23 +201,23 @@
       "duplicate": false
     },
     {
-      "article_id": "de35cc72b5382109fd6df3062d495a6a",
+      "article_id": "8cd00cace7eb26a2515811e82372213f",
       "title": "Infosys, HCL Tech to TCS share prices: Is IT sector poised for a better H2CY25",
       "link": "https://www.livemint.com/market/infosys-hcl-tech-to-tcs-share-prices-is-it-sector-poised-for-a-better-h2cy25-11751274200890.html",
-      "keywords": null,
+      "keywords": "tcs",
       "creator": [
-        "Reuters"
+        "Excel Import"
       ],
       "description": "Stock Market Today: HCL Technologies, Tata Consultancy Services, and Infosys share prices, among other IT stocks, have underperformed during...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-12 11:02:13",
+      "pubDate": "2025-06-06 15:58:28",
       "pubDateTZ": "UTC",
       "image_url": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-04/19/full/1681892675-9443.jpg?im=FeatureCrop,size=(826,465)",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "The Economic Times",
-      "source_priority": 557,
-      "source_url": "www.livemint.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/market/infosys-hcl-tech-to-tcs-share-prices-is-it-sector-poised-for-a-better-h2cy25-11751274200890.html",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
@@ -234,30 +234,30 @@
       "duplicate": false
     },
     {
-      "article_id": "30f8922f9eb6daf63162dd2c70df97f5",
+      "article_id": "cf7a03cb0d298a03384f556c708b3e53",
       "title": "5 IT stocks to buy, 3 to reduce as TCS set to kickstart Q1FY26 earnings next week",
       "link": "https://www.zeebiz.com/markets/stocks/photo-gallery-5-it-stocks-to-buy-3-to-reduce-as-tcs-set-to-kickstart-q1fy2626-earnings-next-week-372253",
-      "keywords": null,
+      "keywords": "tcs",
       "creator": [
-        "ET Bureau"
+        "Excel Import"
       ],
       "description": "As the IT Q1FY26 earnings season will kickstart nextr week, the brokerage said the operating performance of IT Services companies will...",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-22 11:02:13",
+      "pubDate": "2025-06-14 18:06:13",
       "pubDateTZ": "UTC",
       "image_url": "https://www.livemint.com/lm-img/img/2024/10/11/600x338/TCS_share_price_Q2_results_2024_Stocks_to_buy_toda_1728617463640_1728617464042.jpg",
       "video_url": null,
-      "source_id": "moneycontrol",
-      "source_name": "Business Standard",
-      "source_priority": 587,
-      "source_url": "www.zeebiz.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.zeebiz.com/markets/stocks/photo-gallery-5-it-stocks-to-buy-3-to-reduce-as-tcs-set-to-kickstart-q1fy2626-earnings-next-week-372253",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
         "india"
       ],
       "category": [
-        "technology"
+        "top"
       ],
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
@@ -267,30 +267,1284 @@
       "duplicate": false
     },
     {
-      "article_id": "e4322496331fbe272fed3672e7a1e4f1",
+      "article_id": "d4220ab2ce21d4a8f4735c8349c7c2b2",
       "title": "Is TCS Share Price at Dip Buying Levels? It's Getting There!",
       "link": "https://www.forexlive.com/technical-analysis/is-tcs-share-price-at-dip-buying-levels-its-getting-there-20250702/",
-      "keywords": null,
+      "keywords": "tcs",
       "creator": [
-        "Reuters"
+        "Excel Import"
       ],
       "description": "Opinion: Tata Consultancy Services (TCS) appears to offer a strong long-term investment proposition for Indian and overseas investors.",
       "content": "ONLY AVAILABLE IN PAID PLANS",
-      "pubDate": "2025-06-29 11:02:13",
+      "pubDate": "2025-06-09 03:54:21",
       "pubDateTZ": "UTC",
       "image_url": "https://images.moneycontrol.com/static-mcnews/2024/04/410174539.jpg?impolicy=website&width=770&height=431",
       "video_url": null,
-      "source_id": "businessstandard",
-      "source_name": "The Economic Times",
-      "source_priority": 522,
-      "source_url": "www.forexlive.com",
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.forexlive.com/technical-analysis/is-tcs-share-price-at-dip-buying-levels-its-getting-there-20250702/",
       "source_icon": "https://n.bytvi.com/default.png",
       "language": "english",
       "country": [
         "india"
       ],
       "category": [
-        "technology"
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "32077e33a08c1e9ba02bbdabfe645c24",
+      "title": "nan",
+      "link": "nan",
+      "keywords": "nan",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "nan",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-03 04:56:05",
+      "pubDateTZ": "UTC",
+      "image_url": "nan",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "nan",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e09d7b6a809519415bef8326e42b362d",
+      "title": "Reliance brings UK's FaceGym to India with stake buy",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/reliance-brings-uks-facegym-to-india-with-stake-buy/articleshow/122237920.cms",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "India Business News: Reliance Retail Ventures is set to acquire a minority stake in FaceGym, a UK-based facial workout brand,...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-07 18:52:57",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.etnownews.com/thumb/msid-116837025,updatedat-1735659942228,width-1280,height-720,resizemode-75/116837025.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://timesofindia.indiatimes.com/business/india-business/reliance-brings-uks-facegym-to-india-with-stake-buy/articleshow/122237920.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "3c3fc631e32a683e563a3a58deee3ecf",
+      "title": "Reliance Eyes $50 Billion Market Value Boost from AI, Energy",
+      "link": "https://www.deccanherald.com/business/companies/new-energy-ai-infra-to-drive-usd-50-bn-market-value-rise-for-reliance-3616892",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Energy & AI Growth: Reliance to add $50 billion market value by expanding new energy and AI infrastructure, transforming Jamnagar into a...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-14 12:02:21",
+      "pubDateTZ": "UTC",
+      "image_url": "https://www.livemint.com/lm-img/img/2025/06/25/600x338/USA-ETHANE-EXPORTS-CHINA-0_1750864622947_1750864642351.JPG",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.deccanherald.com/business/companies/new-energy-ai-infra-to-drive-usd-50-bn-market-value-rise-for-reliance-3616892",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5a8153a08f050fa5fe0c0d6740568311",
+      "title": "Reliance to consolidate consumer brands under New RCPL subsidiary",
+      "link": "https://www.business-standard.com/companies/news/reliance-industries-ril-spin-off-new-rcpl-consumer-goods-retail-125070301005_1.html",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "RIL said that the spin-off is aimed at attracting investors beyond those backing its retail unit.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-13 14:37:55",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.moneycontrol.com/static-mcnews/2025/04/20250430050316_Mukesh-A.jpg?impolicy=website&width=770&height=431",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.business-standard.com/companies/news/reliance-industries-ril-spin-off-new-rcpl-consumer-goods-retail-125070301005_1.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8fe9d21ec46f03fb87ee4f6cd544dc28",
+      "title": "Anil Ambani-owned Reliance Power, Reliance Infra share prices rally up to 5%. Here's why",
+      "link": "https://www.livemint.com/market/stock-market-news/anil-ambani-owned-reliance-power-reliance-infra-share-price-rallies-up-to-5-heres-why-11751604788426.html",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Reliance Power share price rose over 3.70 per cent to ₹66.90 apiece on NSE, meanwhile, Reliance Infrastructure share price ascended over...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-26 20:50:44",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.cnbctv18.com/uploads/2024/05/reliance-industries-2024-05-26ead18a210528b34490ef0a7430e15b.jpg?impolicy=website&width=400&height=225",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/market/stock-market-news/anil-ambani-owned-reliance-power-reliance-infra-share-price-rallies-up-to-5-heres-why-11751604788426.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "2dcc070d25d74e59f6164f2817276a30",
+      "title": "Reliance turns from Nifty’s biggest drag to its top driver | Today News",
+      "link": "https://www.livemint.com/news/reliance-top-nifty-driver-biggest-drag-tata-steel-nifty-airtel-icici-jio-petrochemical-business-hdfc-bank-retail-growth-11751460698601.html",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "The stock has contributed 10% of the Nifty's rebound from early April to 27 June. Brokers are betting on improved earnings,...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-16 15:42:39",
+      "pubDateTZ": "UTC",
+      "image_url": "https://static.india.com/wp-content/uploads/2025/05/mukesh-ambani.jpg?impolicy=Medium_Widthonly&w=400",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/news/reliance-top-nifty-driver-biggest-drag-tata-steel-nifty-airtel-icici-jio-petrochemical-business-hdfc-bank-retail-growth-11751460698601.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b6dfad25e1b67aeee713d457fe0cc27a",
+      "title": "Ambani's Reliance to Spin Off Consumer Goods Brands Ahead of Retail IPO",
+      "link": "https://www.bloomberg.com/news/articles/2025-07-03/reliance-to-spin-off-consumer-goods-brands-ahead-of-retail-ipo",
+      "keywords": "reliance",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Reliance Industries Ltd. is transferring all its consumer goods brands to a new wholly-owned subsidiary as the billionaire Mukesh Ambani-led...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-01 00:16:48",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU_3VVw6k7jnRtA-eSTw3RDwA7tSiQgjIyjg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.bloomberg.com/news/articles/2025-07-03/reliance-to-spin-off-consumer-goods-brands-ahead-of-retail-ipo",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "10a77542cbff92f2f5f68706b972b39b",
+      "title": "Infosys fires employee arrested for filming female colleague in washroom",
+      "link": "https://m.economictimes.com/tech/information-tech/infosys-fires-employee-arrested-for-filming-female-colleague-in-washroom/articleshow/122207366.cms",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "The female employee had filed a complaint with the police on the advice of her husband, who felt the young man might do the same to other...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-17 23:27:07",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbBIv50mWlWAWBsetqukXwARRbuUJaHluYg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/tech/information-tech/infosys-fires-employee-arrested-for-filming-female-colleague-in-washroom/articleshow/122207366.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6a37a6f689c8efe7bfb4eeaca5357b3f",
+      "title": "TCS, Infosys see dip in key client business amid global uncertainty",
+      "link": "https://www.communicationstoday.co.in/tcs-infosys-see-dip-in-key-client-business-amid-global-uncertainty/",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Tata Consultancy Services Ltd and Infosys Ltd clocked less business from a few of their marquee clients last year as global uncertainties...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-12 06:08:44",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4e2jsjT8GGaPG3rpbire1vBGtZW4T6ShFig&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.communicationstoday.co.in/tcs-infosys-see-dip-in-key-client-business-amid-global-uncertainty/",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "ae242365f2f791c0ef644e284557c956",
+      "title": "Infosys shares in focus: Should you buy, sell or hold IT major's stock after Q4 results? EXPLAINED",
+      "link": "https://www.livemint.com/market/stock-market-news/infosys-shares-in-focus-should-you-buy-sell-or-hold-it-majors-stock-after-q4-results-explained-11744910477697.html",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Infosys Q4 Results: India's second-largest IT firm witnessed an 11.75% fall in the consolidated net profits for the Jan-Mar quarter of the...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-08 16:35:29",
+      "pubDateTZ": "UTC",
+      "image_url": "https://assets.entrepreneur.com/content/3x2/2000/1744892780-infy.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/market/stock-market-news/infosys-shares-in-focus-should-you-buy-sell-or-hold-it-majors-stock-after-q4-results-explained-11744910477697.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "76fa5de41c75f90d6d995c2f7a053fd6",
+      "title": "Nifty IT top sectoral gainer on hopes of US Fed rate cuts; Infosys, Mphasis, TCS top gainers",
+      "link": "https://www.tradingview.com/news/moneycontrol:348562a28094b:0-nifty-it-top-sectoral-gainer-on-hopes-of-us-fed-rate-cuts-infosys-mphasis-tcs-top-gainers/",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Optimism from U.S. President Donald Trump's commentary on a trade deal between U.S. and India sent information technology stocks rallying...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-21 18:30:39",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9nMWsh98i_XpFvvm3omAe91BH0AZizPc-Ug&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.tradingview.com/news/moneycontrol:348562a28094b:0-nifty-it-top-sectoral-gainer-on-hopes-of-us-fed-rate-cuts-infosys-mphasis-tcs-top-gainers/",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "113bc98a3e6d5e57014a4249030cfb53",
+      "title": "Infosys vs Cognizant: Why two IT giants are fighting over techies in US",
+      "link": "https://m.economictimes.com/news/new-updates/infosys-vs-cognizant-why-two-it-giants-are-fighting-over-techies-in-us/articleshow/122174788.cms",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Infosys has accused Cognizant executives of anti-competitive practices in the US healthcare IT market, alleging they undermined Infosys'...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-24 10:03:28",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.forbesindia.com/media/images/2022/Jan/img_175811_infosys.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/news/new-updates/infosys-vs-cognizant-why-two-it-giants-are-fighting-over-techies-in-us/articleshow/122174788.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "79e37f79000ecb4525a3336458ce6ede",
+      "title": "Infosys shares decline more than 1%, among top losers on Nifty 50",
+      "link": "https://www.tradingview.com/news/moneycontrol:03fa2e290094b:0-infosys-shares-decline-more-than-1-among-top-losers-on-nifty-50/",
+      "keywords": "infy",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "During today's session, Infosys shares were among the top losers on the Nifty 50 in the late morning trading, with a decline of about 1.3%.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-25 14:42:31",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-S4Axkp3nOZoziIZTtvVl5xVHoycFfSr0g&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.tradingview.com/news/moneycontrol:03fa2e290094b:0-infosys-shares-decline-more-than-1-among-top-losers-on-nifty-50/",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6102c1cd4208c1f907be246674bf2929",
+      "title": "HDFC Bank Share Price Highlights: HDFC Bank Stock Price History",
+      "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-04-jul-2025/liveblog/122239223.cms",
+      "keywords": "hdfcbank",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Discover the HDFC Bank Stock Liveblog, your ultimate resource for real-time updates and insightful analysis on a prominent stock.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-11 04:53:40",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBZqIn0B-2V9zeM6EipimNQOf10iuaO-k06g&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/markets/stocks/stock-liveblog/hdfc-bank-share-price-today-live-04-jul-2025/liveblog/122239223.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "421de45225ac4fc3098e46135e9d925e",
+      "title": "HDFC Bank & HDB Financial Services Share Price Highlights: HDB Financial declines 2%, HDFC Bank shares flat after Q1 business update",
+      "link": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-stock-today-hdb-financial-services-share-price-live-updates-04th-july-2025/article69771327.ece",
+      "keywords": "hdfcbank",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "HDFC Bank stocks today, HDB Financial Services Share Price Live Updates: Shares of HDFC Bank and its subsidiary HDB Financial Services are...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-17 15:37:31",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuKSfqskrhTyIJKpOp6C1w0cKtCljayvwrvg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.thehindubusinessline.com/markets/stock-markets/hdfc-bank-stock-today-hdb-financial-services-share-price-live-updates-04th-july-2025/article69771327.ece",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8d66bba38847c863dbff9eb24cf86ce8",
+      "title": "SBI, HDFC Bank FD Rates Vs Stocks: Is It Better To Do Fixed Deposits Or Buy These Banks' Stocks? Find Out!",
+      "link": "https://www.goodreturns.in/personal-finance/sbi-hdfc-bank-fd-rates-vs-stocks-is-it-better-to-do-fixed-deposits-or-buy-these-banks-stocks-find-1440319.html",
+      "keywords": "hdfcbank",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "FDs are traditional investment mechanism with guaranteed returns and low risks, while stocks are high risky investment which are sentiment...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-25 14:42:05",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5B2qR92JnjF6-TV2n4XIetBDDuBPlTqaqg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.goodreturns.in/personal-finance/sbi-hdfc-bank-fd-rates-vs-stocks-is-it-better-to-do-fixed-deposits-or-buy-these-banks-stocks-find-1440319.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "183948757e511ed68c4f32eb74697304",
+      "title": "HDFC Bank, Bharti Airtel: Analysts pick 8 blue-chip stocks to own this July",
+      "link": "https://www.business-standard.com/markets/news/hdfc-bank-bharti-airtel-analysts-pick-8-blue-chip-stocks-to-own-this-july-125070400229_1.html",
+      "keywords": "hdfcbank",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "After a subdued start to 2025, the Indian stock market made a strong comeback during the closing of H1. The benchmark Nifty witnessed a 15...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-24 08:49:24",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.moneycontrol.com/static-mcnews/2024/08/20240819044026_HDFC-BANK.jpg?impolicy=website&width=770&height=431",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.business-standard.com/markets/news/hdfc-bank-bharti-airtel-analysts-pick-8-blue-chip-stocks-to-own-this-july-125070400229_1.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "dd66b58c89e70da96e683818241ba2d6",
+      "title": "HDB Financial shares rise over 4.5% a day after market debut; HDFC Bank sells 13.5 cr shares for Rs 9,814...",
+      "link": "https://www.moneycontrol.com/news/business/markets/hdb-financial-shares-rise-over-4-5-a-day-after-market-debut-hdfc-bank-sells-13-5-cr-shares-for-rs-9-814-cr-13221810.html",
+      "keywords": "hdfcbank",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Shares of HDB Financial Services, a subsidiary of HDFC Bank, rose over 4.5% on July 3 a day after the NBFC firm got listed on stock...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-17 18:05:35",
+      "pubDateTZ": "UTC",
+      "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/660f90eb6c031-hdfc-bank-share-price-analysts-largely-remained-positive-on-the-counter-054929711-16x9.png?size=948:533",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/markets/hdb-financial-shares-rise-over-4-5-a-day-after-market-debut-hdfc-bank-sells-13-5-cr-shares-for-rs-9-814-cr-13221810.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "615cdb3e162d71b24ad17f7e158f0a3c",
+      "title": "UBS reiterates Buy rating on Hindustan Unilever stock with favorable outlook",
+      "link": "https://in.investing.com/news/analyst-ratings/ubs-reiterates-buy-rating-on-hindustan-unilever-stock-with-favorable-outlook-93CH-4901033",
+      "keywords": "hindunilvr",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Investing.com - UBS has reiterated its Buy rating on Hindustan Unilever (NSE:HLL) Ltd (HUVR:IN) with a price target of INR2,800.00,...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-03 01:11:04",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG-8ovK6dZdnGbirkE3pdrScGitH829IyRmg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://in.investing.com/news/analyst-ratings/ubs-reiterates-buy-rating-on-hindustan-unilever-stock-with-favorable-outlook-93CH-4901033",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "dd3e9d3c4c3374aaef0276c77a393c74",
+      "title": "Hindustan Unilever Shows Mixed Performance Amidst Broader Market TrendsHindustan Unilever has demonstrat",
+      "link": "https://www.marketsmojo.com/news/stocks-in-action/hindustan-unilever-stock-gains-116-over-four-days-market-cap-at-rs-547-lakh-crore-3218297",
+      "keywords": "hindunilvr",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Hindustan Unilever has demonstrated significant activity in the FMCG sector, maintaining its stock price of Rs 2321.45 throughout the...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-26 07:53:06",
+      "pubDateTZ": "UTC",
+      "image_url": "https://images.moneycontrol.com/static-mcnews/2024/12/20241220052155_SOTD_Hindustan-Unilever-TT.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.marketsmojo.com/news/stocks-in-action/hindustan-unilever-stock-gains-116-over-four-days-market-cap-at-rs-547-lakh-crore-3218297",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "9c0c16b11f7475c93ea86548a18109fb",
+      "title": "Hindustan Unilever Shares Gain Amid High Trading Volume in Today's Session",
+      "link": "https://www.moneycontrol.com/news/business/stocks/hindustan-unilever-shares-gain-amid-high-trading-volume-in-today-s-session-alpha-article-13210131.html",
+      "keywords": "hindunilvr",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Hindustan Unilever's stock saw a notable trading volume today, with 116,875 shares changing hands in the morning session.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-09 00:49:37",
+      "pubDateTZ": "UTC",
+      "image_url": "https://www.livemint.com/lm-img/img/2024/04/25/1600x900/2-0-503074529-hindustan--unilever2-0_1681041654532_1714019963786.JPG",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/stocks/hindustan-unilever-shares-gain-amid-high-trading-volume-in-today-s-session-alpha-article-13210131.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "e6c8ff3647a824fbbd217b8c66fc0105",
+      "title": "Stocks to buy in 2025 for long term: HUL, NYKAA among 5 stocks that could give 10-30% return",
+      "link": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-in-2025-for-long-term-hul-nykaa-among-5-stocks-that-could-give-10-30-return/brokerage-recommendations/slideshow/122171663.cms",
+      "keywords": "hindunilvr",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Leading brokerages have shared their latest stock picks, highlighting companies with strong fundamentals and growth visibility for the next...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-29 11:55:34",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvTnKYb15I7DaCb25XL3_zsNICmMxhlL-AeA&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-in-2025-for-long-term-hul-nykaa-among-5-stocks-that-could-give-10-30-return/brokerage-recommendations/slideshow/122171663.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "c838595c9b7ef6a1f86bf6227d67654a",
+      "title": "Dividend Stocks: Hindustan Unilever, Cipla, Vedanta, among others to trade ex-dividend next week; Full list",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-hindustan-unilever-cipla-vedanta-among-others-to-trade-ex-dividend-next-week-full-list-11750603568295.html",
+      "keywords": "hindunilvr",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Dividend Stocks: Companies including Hindustan Unilever, Polycab India, Vedanta, Kansai Nerolac Paints, HDFC Bank, Cipla and Aegis Logistics...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-22 15:14:09",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS62qG1knJQt8b-_DjWjNwG85s9yE2sab15OA&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/market/stock-market-news/dividend-stocks-hindustan-unilever-cipla-vedanta-among-others-to-trade-ex-dividend-next-week-full-list-11750603568295.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "b57291fef9ef3f9e8b7fc2278afbb9a1",
+      "title": "ITC shareholders in a soup: Diminishing returns, weak technicals; where's the FMCG stock headed?",
+      "link": "https://www.businesstoday.in/markets/stocks/story/itc-shareholders-in-a-soup-diminishing-returns-weak-technicals-wheres-the-fmcg-stock-headed-482838-2025-07-03",
+      "keywords": "itc",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Shares of ITC are trading in a weak zone amid the ongoing market consolidation. The FMCG stock is trading below its short term and long term...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-18 08:19:01",
+      "pubDateTZ": "UTC",
+      "image_url": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-29052,resizemode-75,msid-116977904/markets/stocks/news/itc-shares-in-focus-as-stock-exchanges-hold-special-session-to-set-itc-hotels-share-price.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.businesstoday.in/markets/stocks/story/itc-shareholders-in-a-soup-diminishing-returns-weak-technicals-wheres-the-fmcg-stock-headed-482838-2025-07-03",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6ac2e3c700471292adb0b9677c806fdb",
+      "title": "Godfrey, ITC, VST Industries — Tobacco Stocks Fall On Fear Of Possible GST Hike On Cigarettes",
+      "link": "https://www.ndtvprofit.com/markets/godfrey-itc-vst-industries-tobacco-stocks-fall-on-fear-of-possible-gst-hike-on-cigarettes",
+      "keywords": "itc",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Share price of Godfrey Phillips saw significant decline of nearly 2%, while ITC Ltd. stock was down 0.82%. Pratiksha Thayil.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-14 19:49:33",
+      "pubDateTZ": "UTC",
+      "image_url": "https://www.financialexpress.com/wp-content/uploads/2025/05/Oliviya-2-1.png?w=440",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.ndtvprofit.com/markets/godfrey-itc-vst-industries-tobacco-stocks-fall-on-fear-of-possible-gst-hike-on-cigarettes",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6ed692f587b6900845fc10869fb9eaf8",
+      "title": "ITC shares among top losers on Nifty 50, fall more than 1% in today's trading session",
+      "link": "https://www.moneycontrol.com/news/business/stocks/itc-shares-among-top-losers-on-nifty-50-fall-more-than-1-in-today-s-trading-session-alpha-article-13112333.html",
+      "keywords": "itc",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "ITC is among the top losers on the NIFTY 50 during today's trading session, with the stock price declining by 1.04% to Rs 421.70.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-03 18:05:57",
+      "pubDateTZ": "UTC",
+      "image_url": "https://i.ytimg.com/vi/uQy5PYxAFpE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBdpTwSZNiNdFlFLp0BGJszVbSqjA",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/stocks/itc-shares-among-top-losers-on-nifty-50-fall-more-than-1-in-today-s-trading-session-alpha-article-13112333.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "1c9fada7e5cdd68ea59de3c51b3a44f6",
+      "title": "ITC stock correction post BAT stake sale an entry opportunity, Emkay says",
+      "link": "https://www.cnbctv18.com/market/itc-share-price-stock-correction-after-bat-stake-sale-an-entry-opportunity-emkay-says-19617565.htm",
+      "keywords": "itc",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "The recent correction in ITC's stock, triggered by British American Tobacco (BAT) diluting its stake, has created an attractive entry point.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-14 11:47:01",
+      "pubDateTZ": "UTC",
+      "image_url": "https://img.etimg.com/thumb/height-450,width-600,resizemode-4,imgsize-9740,msid-114102447/itc-shares-highlights-itc-stock-price-history.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.cnbctv18.com/market/itc-share-price-stock-correction-after-bat-stake-sale-an-entry-opportunity-emkay-says-19617565.htm",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "765c212b563a8671949d7157627c5183",
+      "title": "ITC Hotels share price: Analyst sees bullish trend intact; predicts breakout above THIS level",
+      "link": "https://www.etnownews.com/markets/itc-hotels-share-price-analyst-sees-bullish-trend-intact-predicts-breakout-above-this-level-article-151938289",
+      "keywords": "itc",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "ITC Hotels Share Price: Shares of ITC Hotels, which was demerged from ITC earlier this year, closed in the green at Rs 213.50 on BSE during...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-07 23:19:26",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUrMQeViSGqEmJcgp5CD6j57bBChvx7mEcQ&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.etnownews.com/markets/itc-hotels-share-price-analyst-sees-bullish-trend-intact-predicts-breakout-above-this-level-article-151938289",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "d860993e0acc9dc3e124c468d0e5806a",
+      "title": "Why State Bank of India (SBI) Share Price is Falling",
+      "link": "https://www.equitymaster.com/detail.asp?date=02/07/2025&story=9&title=Why-State-Bank-of-India-SBI-Share-Price-is-Falling",
+      "keywords": "sbin",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "SBI shares are down 15% in the past two months. This decline has everyone predicting a larger decline.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-12 12:30:10",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXf7ZRdTSYxAaQx3f29Lz-mi9WCsGtRs0zSg&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.equitymaster.com/detail.asp?date=02/07/2025&story=9&title=Why-State-Bank-of-India-SBI-Share-Price-is-Falling",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8d66bba38847c863dbff9eb24cf86ce8",
+      "title": "SBI, HDFC Bank FD Rates Vs Stocks: Is It Better To Do Fixed Deposits Or Buy These Banks' Stocks? Find Out!",
+      "link": "https://www.goodreturns.in/personal-finance/sbi-hdfc-bank-fd-rates-vs-stocks-is-it-better-to-do-fixed-deposits-or-buy-these-banks-stocks-find-1440319.html",
+      "keywords": "sbin",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "FDs are traditional investment mechanism with guaranteed returns and low risks, while stocks are high risky investment which are sentiment...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-19 00:06:08",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1aEOadHG44Onv4AJad8nLPyor3ewNaCy-A&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.goodreturns.in/personal-finance/sbi-hdfc-bank-fd-rates-vs-stocks-is-it-better-to-do-fixed-deposits-or-buy-these-banks-stocks-find-1440319.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "5866741a19444056f63460d677bbc791",
+      "title": "Jefferies shares \"buy\" call for SBI, sees 21% potential upside on healthy outlook",
+      "link": "https://www.moneycontrol.com/news/business/markets/jefferies-shares-buy-call-for-sbi-sees-21-potential-upside-on-healthy-outlook-13150297.html",
+      "keywords": "sbin",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Jefferies projects a credit growth of 12 percent and deposit growth of 10 percent for SBI, supported by adequate liquidity buffers.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-30 01:14:54",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDMRiy1hmJeBfrFd_bHedE2Sx88lx8InGxw&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.moneycontrol.com/news/business/markets/jefferies-shares-buy-call-for-sbi-sees-21-potential-upside-on-healthy-outlook-13150297.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "dfa5aac29967c154a3f8c2cfabb9ba6d",
+      "title": "SBI dips 3% on profit booking on fund raising plan; should you buy or hold?",
+      "link": "https://www.business-standard.com/markets/news/sbi-dips-3-on-profit-booking-on-fund-raising-plan-should-buy-or-hold-125043000497_1.html",
+      "keywords": "sbin",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "SBI share Price Today: SBI's board, at a meeting scheduled for May 3, 2025, is expected to discuss and approve the proposal for raising....30 Apr 2025",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-17 19:18:01",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjY1Xzw7ovdCtDJtDq-8L_IthydUQF78sqw&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.business-standard.com/markets/news/sbi-dips-3-on-profit-booking-on-fund-raising-plan-should-buy-or-hold-125043000497_1.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "efecb525fba801f60d19a8f7afbee2c6",
+      "title": "SBI Share Price Highlights: SBI Stock Price History",
+      "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/sbi-stock-price-live-updates-28-may-2025/liveblog/121452551.cms",
+      "keywords": "sbin",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Stay updated with the SBI Stock Liveblog, your one-stop destination for real-time information and analysis of a leading stock.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-05 07:41:21",
+      "pubDateTZ": "UTC",
+      "image_url": "https://cdn.zeebiz.com/sites/default/files/2022/11/07/209204-sbi-atm-pti.jpg",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://m.economictimes.com/markets/stocks/stock-liveblog/sbi-stock-price-live-updates-28-may-2025/liveblog/121452551.cms",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "8ac30e221e5c24812733ff4f1c904b2d",
+      "title": "Some Shareholders Feeling Restless Over Bharti Airtel Limited's (NSE:BHARTIARTL) P/E Ratio",
+      "link": "https://simplywall.st/stocks/in/telecom/nse-bhartiartl/bharti-airtel-shares/news/some-shareholders-feeling-restless-over-bharti-airtel-limite",
+      "keywords": "bhartiartl",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "When close to half the companies in India have price-to-earnings ratios (or \"P/E's\") below 29x, you may consider Bharti...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-02 21:44:42",
+      "pubDateTZ": "UTC",
+      "image_url": "https://s3-symbol-logo.tradingview.com/airtel--600.png",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://simplywall.st/stocks/in/telecom/nse-bhartiartl/bharti-airtel-shares/news/some-shareholders-feeling-restless-over-bharti-airtel-limite",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "6497778336a68b14915ae876e8466fe7",
+      "title": "Stocks to buy or sell: Airtel to Infosys - Axis Securities bets on these three shares for this week",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-airtel-to-infosys-axis-securities-bets-on-these-three-shares-for-this-week-11740986657290.html",
+      "keywords": "bhartiartl",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Indian stock market: Market indices Sensex and Nifty declined by nearly half a percent, pressured by losses in oil & gas and financial...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-10 02:27:26",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo5p7N1ENhnTwWWEu053ZDIz__rDgO_HbK6w&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-or-sell-airtel-to-infosys-axis-securities-bets-on-these-three-shares-for-this-week-11740986657290.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "30aa4a82829ecd86d0c76e0172e65bc1",
+      "title": "Bharti Airtel shares rally in morning trade: Here is why",
+      "link": "https://www.theweek.in/news/biz-tech/2025/05/14/bharti-airtel-shares-rally-in-morning-trade-why-reason-bhartiartl-stock-price-today.html",
+      "keywords": "bhartiartl",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "The Reliance Jio-rival seems to be back on track after a five-fold jump in quarterly profit and measured deals with SpaceX, Apple, Ericsson,...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-06-30 21:20:11",
+      "pubDateTZ": "UTC",
+      "image_url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202505/6826bb62868b6-pastel-ltd-a-wholly-owned-subsidiary-of-singtel--was-likely-seller--as-it-was-looking-to-offload-rs-161317162-16x9.jpg?size=948:533",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.theweek.in/news/biz-tech/2025/05/14/bharti-airtel-shares-rally-in-morning-trade-why-reason-bhartiartl-stock-price-today.html",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "f4c460798604f9a764ca849c160140dc",
+      "title": "AGR dues: Here's how telecom stocks are faring after SC plea rejection",
+      "link": "https://www.businesstoday.in/markets/stocks/story/agr-dues-heres-how-telecom-stocks-are-faring-after-sc-plea-rejection-476834-2025-05-19",
+      "keywords": "bhartiartl",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Shares of Bharti Airtel hit a low of Rs 1808.65, before erasing losses. The stock was up 0.17 per cent at Rs 1817.50.",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-04 02:42:36",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhros_TqHfeK3m_Y-FG4jowYvPOZXmwERB8g&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.businesstoday.in/markets/stocks/story/agr-dues-heres-how-telecom-stocks-are-faring-after-sc-plea-rejection-476834-2025-05-19",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
+      ],
+      "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_tag": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
+      "ai_region": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "ai_org": "ONLY AVAILABLE IN CORPORATE PLANS",
+      "duplicate": false
+    },
+    {
+      "article_id": "a59fd4369a322f77a42dc19f0b8bdc61",
+      "title": "Telecom stocks in focus: Vodafone India shares gain, Bharti Airtel slips post Trai March data",
+      "link": "https://www.editorji.com/business-news/markets/top-5-losers-of-nifty-50-a-day-of-decline-for-leading-stocks-1734436416541",
+      "keywords": "bhartiartl",
+      "creator": [
+        "Excel Import"
+      ],
+      "description": "Leading the list of losers were Shriram Finance Ltd. (SHRIRAMFIN), Grasim Industries Ltd. (GRASIM), Hero MotoCorp Ltd. (HEROMOTOCO), Bharti Airtel Ltd. (...",
+      "content": "ONLY AVAILABLE IN PAID PLANS",
+      "pubDate": "2025-07-04 00:12:58",
+      "pubDateTZ": "UTC",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDMRiy1hmJeBfrFd_bHedE2Sx88lx8InGxw&s",
+      "video_url": null,
+      "source_id": "excel_import",
+      "source_name": "Excel Imported Data",
+      "source_priority": 500,
+      "source_url": "https://www.editorji.com/business-news/markets/top-5-losers-of-nifty-50-a-day-of-decline-for-leading-stocks-1734436416541",
+      "source_icon": "https://n.bytvi.com/default.png",
+      "language": "english",
+      "country": [
+        "india"
+      ],
+      "category": [
+        "top"
       ],
       "sentiment": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
       "sentiment_stats": "ONLY AVAILABLE IN PROFESSIONAL AND CORPORATE PLANS",
