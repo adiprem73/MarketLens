@@ -52,7 +52,7 @@ const Header = () => {
             {/* Cart */}
             <div className="hidden md:flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
               <a href="/linkpage">
-              <span className="text-sm">Link Your Portfolio</span>
+              <span className="text-sm"><p className='transition duration-300 transform hover:scale-110 hover:text-cyan-400'>Link Your Portfolio</p></span>
               </a>
             </div>
 
