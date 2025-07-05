@@ -120,7 +120,7 @@ const Chatbot = () => {
   ];
 
   return (
-    <div className="font-sans text-gray-100 min-h-screen flex items-center justify-center bg-gray-900">
+    <div className="font-sans text-gray-100  flex items-center justify-center bg-red-500">
       
 
       {/* Chat trigger button */}

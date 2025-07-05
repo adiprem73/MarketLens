@@ -3,7 +3,7 @@ import React from 'react';
 import Header from '../components/Header';
 import Form from '../components/Form'; // Assuming you have a Form component for linking portfolios
 import Chatbot from '../components/Chatbot'; // Importing Chatbot component
-
+import Footer from '../components/Footer';
 
 const Link = () => {
   return (
@@ -16,6 +16,7 @@ const Link = () => {
         <Form />
         <Chatbot />
       </main>
+      <Footer />
     </div>
   );
 };

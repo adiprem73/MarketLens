@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import SoapNews from '../components/SoapNews'; // Importing SoapNews component
 import Chatbot from '../components/Chatbot'; // Importing Chatbot component
+import Footer from '../components/Footer';
 
 
 const News = () => {
@@ -22,6 +23,7 @@ const News = () => {
         </div>
         <Chatbot />
       </main>
+      <Footer />
     </div>
   );
 };

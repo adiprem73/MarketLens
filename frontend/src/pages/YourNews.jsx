@@ -2,6 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import YourSoapNews from '../components/YourSoapNews'; // Assuming you have a YourSoapNews component for displaying personalised news
 import Chatbot from '../components/Chatbot'; // Importing Chatbot component
+import Footer from '../components/Footer'; // Importing Footer component
 
 
 const YourNews = () => {
@@ -18,6 +19,7 @@ const YourNews = () => {
         </div>
         <Chatbot />
       </main>
+        <Footer />
     </div>
   );
 };
