@@ -3,10 +3,10 @@ import Orb from '../../Reacbits/Orb/Orb'
 
 export default function Hero() {
     return(
-        <div className='flex relative items-center justify-center min-h-screen'>
+        <div className='flex relative items-center justify-center min-h-screen pointer-events-none'>
             {/* Orb in the background */}
-            <div className="absolute inset-0 flex items-center justify-center z-0 pointer-events-none">
-                <div className="py-10 h-full w-full relative flex items-center justify-center">
+            <div className="absolute inset-0 flex items-center justify-center z-0">
+                <div className="py-10 h-full w-full relative flex items-center justify-center pointer-events-auto">
                     <Orb />
                 </div>
             </div>
@@ -30,16 +30,19 @@ export default function Hero() {
                         Get real-time market insights, personalized news, and intelligent analysis to make informed investment decisions with cutting-edge AI technology.
                     </p>
 
-                    <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-                        <button className="bg-gradient-to-r from-blue-600 to-cyan-500 px-8 py-4 rounded-full text-white font-semibold text-lg hover:shadow-lg hover:shadow-blue-500/25 transition-all cursor-pointer whitespace-nowrap transform hover:scale-105">
+                    <div className="flex flex-col sm:flex-row gap-4 justify-center items-center ">
+                        <a href="/newspage">
+                        <button className="pointer-events-auto bg-gradient-to-r from-blue-600 to-cyan-500 px-8 py-4 rounded-full text-white font-semibold text-lg hover:shadow-lg hover:shadow-blue-500/25 transition-all cursor-pointer whitespace-nowrap transform hover:scale-105">
                             <i className="ri-newspaper-line mr-2"></i>
                             Get Latest Stock Market News
                         </button>
-                        
-                        <button className="bg-gradient-to-r from-slate-700 to-gray-600 px-8 py-4 rounded-full text-white font-semibold text-lg hover:shadow-lg hover:shadow-gray-500/25 transition-all cursor-pointer whitespace-nowrap transform hover:scale-105">
+                        </a>
+                        <a href="/linkpage">
+                        <button className="pointer-events-auto bg-gradient-to-r from-slate-700 to-gray-600 px-8 py-4 rounded-full text-white font-semibold text-lg hover:shadow-lg hover:shadow-gray-500/25 transition-all cursor-pointer whitespace-nowrap transform hover:scale-105">
                             <i className="ri-user-heart-line mr-2"></i>
                             Get Personalized Portfolio News
                         </button>
+                        </a>
                     </div>
                 </div>
             </div>
