@@ -1,6 +1,8 @@
 import React from 'react';
 import Header from '../components/Header';
 import SoapNews from '../components/SoapNews'; // Importing SoapNews component
+import Chatbot from '../components/Chatbot'; // Importing Chatbot component
+
 
 const News = () => {
   return (
@@ -18,6 +20,7 @@ const News = () => {
           <SoapNews /> {/* Using the SoapNews component to display news */}
           </div>
         </div>
+        <Chatbot />
       </main>
     </div>
   );

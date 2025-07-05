@@ -2,6 +2,8 @@
 import React from 'react';
 import Header from '../components/Header';
 import Form from '../components/Form'; // Assuming you have a Form component for linking portfolios
+import Chatbot from '../components/Chatbot'; // Importing Chatbot component
+
 
 const Link = () => {
   return (
@@ -12,6 +14,7 @@ const Link = () => {
       <Header />
       <main>
         <Form />
+        <Chatbot />
       </main>
     </div>
   );

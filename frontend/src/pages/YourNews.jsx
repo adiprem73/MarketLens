@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from '../components/Header';
 import YourSoapNews from '../components/YourSoapNews'; // Assuming you have a YourSoapNews component for displaying personalised news
+import Chatbot from '../components/Chatbot'; // Importing Chatbot component
 
 
 const YourNews = () => {
@@ -15,6 +16,7 @@ const YourNews = () => {
           <h1 className="text-6xl my-10 text-center  md:text-7xl lg:text-8xl font-bold tracking-wider mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400">Personalised News</h1>
           <YourSoapNews />
         </div>
+        <Chatbot />
       </main>
     </div>
   );
