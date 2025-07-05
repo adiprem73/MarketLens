@@ -36,8 +36,9 @@ const Header = () => {
           <div className="flex items-center space-x-6">
             {/* Cart */}
             <div className="hidden md:flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
-              <ShoppingCart className="w-5 h-5" />
-              <span className="text-sm">Cart</span>
+              <a href="/linkpage">
+              <span className="text-sm">Link Your Portfolio</span>
+              </a>
             </div>
 
             {/* Mobile Menu Button */}
