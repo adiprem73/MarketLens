@@ -74,7 +74,7 @@ const Form = () => {
     console.log("Form submitted successfully:", response.data);
     navigate("/yournewspage"); // Redirect to the news page after successful submission
   } catch (err) {
-    console.error("Error saving user:", err);
+    console.error("Error saving user:", err.message, err.response);
   }
 };
 
