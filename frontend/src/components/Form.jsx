@@ -61,20 +61,40 @@ const Form = () => {
   const handleSubmit = async (e) => {
   e.preventDefault();
 
-  const user = {
-    fullName,
-    email,
-    mobile
+  const { fullName, email, mobile, stocks } = formData;
+
+  // Email Validation
+  const emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailPattern.test(email)) {
+    alert("Please enter a valid email address.");
+    return;
   }
+
+  // Mobile Number Validation (10 digits, numbers only)
+  const mobilePattern = /^\d{10}$/;
+  if (!mobilePattern.test(mobile)) {
+    alert("Please enter a valid 10-digit mobile number.");
+    return;
+  }
+
+  // Share Quantity Validation
+  for (const [stockName, stockData] of Object.entries(stocks)) {
+    if (stockData.selected && (stockData.shares < 0 || stockData.shares > 1000)) {
+      alert(`Please enter a valid number of shares (0-1000) for ${stockName}.`);
+      return;
+    }
+  }
+
+  // If all validations pass, proceed to submit
   try {
     const response = await axios.post("http://localhost:5000/api/users", formData);
-    localStorage.setItem("userEmail", formData.email); // Save user data to localStorage
+    localStorage.setItem("userEmail", email);
     console.log("Saved:", response.data);
-    setFormSubmission(true); // Set form submission state to true
-    console.log("Form submitted successfully:", response.data);
-    navigate("/yournewspage"); // Redirect to the news page after successful submission
+    setFormSubmission(true);
+    navigate("/yournewspage");
   } catch (err) {
     console.error("Error saving user:", err.message, err.response);
+    alert("Something went wrong. Please try again!");
   }
 };
 
