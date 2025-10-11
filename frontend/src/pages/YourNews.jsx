@@ -2,7 +2,7 @@ import React from 'react';
 import Header from '../components/Header';
 import YourSoapNews from '../components/YourSoapNews'; // Assuming you have a YourSoapNews component for displaying personalised news
 import Chatbot from '../components/Chatbot'; // Importing Chatbot component
-import Footer from '../components/Footer'; // Importing Footer component
+import Footer from '../components/Footer'; // Importing Footer component from components
 
 
 const YourNews = () => {
