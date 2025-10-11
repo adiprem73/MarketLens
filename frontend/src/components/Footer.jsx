@@ -73,7 +73,7 @@ const Footer = () => {
                           </Link>
                         </li>
                         <li>
-                          <Link to="/" className="text-gray-300 hover:text-white transition-colors cursor-pointer">
+                          <Link to="https://ice2cpt.com" className="text-gray-300 hover:text-white transition-colors cursor-pointer">
                             Contact
                           </Link>
                         </li>
