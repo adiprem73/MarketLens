@@ -78,7 +78,7 @@ const Footer = () => {
                           </Link>
                         </li>
                         <li>
-                          <Link to="/" className="text-gray-300 hover:text-white transition-colors cursor-pointer">
+                          <Link to="https://www.aiengineering-conference.org/" className="text-gray-300 hover:text-white transition-colors cursor-pointer">
                             Privacy Policy
                           </Link>
                         </li>
