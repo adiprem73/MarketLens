@@ -93,7 +93,7 @@ const Footer = () => {
         
                   <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
                     <p className="text-gray-400 text-sm">
-                      © 2024 MarketLens. All rights reserved.
+                      © 2025 MarketLens. All rights reserved.
                     </p>
                     <p className="text-gray-400 text-sm mt-4 md:mt-0">
                       Made with ❤️ by Aditya Prem
