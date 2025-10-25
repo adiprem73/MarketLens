@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
 import { Search, MapPin, User, ShoppingCart, Menu } from 'lucide-react'
+import { Link } from 'react-router-dom'
 import { useFormSubmission } from './FormSubmissionContext' // Assuming useFormSubmission is imported from context
 
 const Header = () => {
@@ -20,12 +21,12 @@ const Header = () => {
 
           
           <div className="hidden md:flex items-center space-x-8 max-w-3xl mx-8 ">
-            <a href="/" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow ">
+            <Link to="/" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow ">
               <span className="text-sm"> <p className='transition duration-300 transform hover:scale-110 hover:text-cyan-400'>Home</p></span>
-            </a>
-            <a href="/newspage" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
+            </Link>
+            <Link to="/newspage" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
               <span className="text-sm"><p className='transition duration-300 transform hover:scale-110 hover:text-cyan-400'>Latest News</p></span>
-            </a>
+            </Link>
 
             <button
               onClick={() => {
@@ -42,18 +43,18 @@ const Header = () => {
             </button>
 
 
-            <a href="/about" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
+            <Link to="/about" className="flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
               <span className="text-sm"><p className='transition duration-300 transform hover:scale-110 hover:text-cyan-400'>About</p></span>
-            </a>
+            </Link>
           </div>
 
           {/* Right Side: Cart & Menu */}
           <div className="flex items-center space-x-6">
             {/* Cart */}
             <div className="hidden md:flex items-center space-x-1 cursor-pointer hover:text-walmart-yellow">
-              <a href="/linkpage">
+              <Link to="/linkpage">
               <span className="text-sm"><p className='transition duration-300 transform hover:scale-110 hover:text-cyan-400'>Link Your Portfolio</p></span>
-              </a>
+              </Link>
             </div>
 
             {/* Mobile Menu Button */}
@@ -78,8 +79,8 @@ const Header = () => {
 
             {/* Mobile Navigation Links */}
             <div className="space-y-2">
-              <a href="/" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Home</a>
-              <a href="/newspage" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Latest News</a>
+              <Link to="/" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Home</Link>
+              <Link to="/newspage" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Latest News</Link>
               <button
                 onClick={() => {
                   if (formSubmission) {
@@ -92,8 +93,8 @@ const Header = () => {
               >
                 News for You
               </button>
-              <a href="/about" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">About</a>
-              <a href="/linkpage" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Link Your Portfolio</a>
+              <Link to="/about" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">About</Link>
+              <Link to="/linkpage" className="block py-2 text-sm transition duration-300 transform hover:scale-110 hover:text-cyan-400">Link Your Portfolio</Link>
             </div>
           </div>
         </div>

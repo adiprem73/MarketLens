@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import News from './pages/News'; // Uncomment if you want to use the News page
 import Link from './pages/Link'; // Uncomment if you want to use the Link page
 import YourNews from './pages/YourNews'; // Uncomment if you want to use the YourNews page
+import About from './pages/About'; // Added About page route
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
         <Route path="/newspage" element={<News />} />
         <Route path="/linkpage" element={<Link />} />
         <Route path="/yournewspage" element={<YourNews />} />
+        <Route path="/about" element={<About />} />
       </Routes>
     </Router>
   );
