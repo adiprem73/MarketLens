@@ -3,7 +3,8 @@ import React from 'react';
 import Header from '../components/Header';
 import Hero from '../components/Hero';
 import Chatbot from '../components/Chatbot';
-import Footer from '../components/Footer'; // Importing Footer component
+import Footer from '../components/Footer';
+import MarketHighlights from '../components/MarketHighlights';
 
 
 
@@ -16,6 +17,7 @@ const Home = () => {
       <Header />
       <main>
         <Hero />
+        <MarketHighlights />
         <Chatbot />
       </main>
       <Footer />
