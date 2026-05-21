@@ -96,7 +96,7 @@ const Footer = () => {
                       © 2025 MarketLens. All rights reserved.
                     </p>
                     <p className="text-gray-400 text-sm mt-4 md:mt-0">
-                      Made with ❤️ by Aditya Prem
+                      Made with ❤️ by Aditya Priya
                     </p>
                   </div>
                 </div>

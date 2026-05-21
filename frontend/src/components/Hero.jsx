@@ -17,7 +17,7 @@ export default function Hero() {
             <div className="relative z-20 text-center max-w-4xl mx-auto w-full">
                 <div className="backdrop-blur-md bg-white/5 rounded-3xl p-8 md:p-12 border border-white/10 shadow-2xl mx-5">
                     <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-white mb-6 leading-tight">
-                        Smart Market
+                        Super Market
                         <span className="block bg-gradient-to-r from-blue-400 via-cyan-500 to-teal-400 bg-clip-text text-transparent">
                             Intelligence
                         </span>
